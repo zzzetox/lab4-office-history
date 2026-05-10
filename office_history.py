@@ -2,7 +2,7 @@
 # Классы для истории перемещений офисных работников
 # ИЗМЕНЕНИЕ В ОРИГИНАЛЕ - версия 1
 
-import csv
+import csv  # ИЗМЕНЕНИЕ ИЗ ОРИГИНАЛА
 import os
 from datetime import datetime
 
