@@ -1,4 +1,5 @@
 # Лабораторная работа №4 - Вариант 17
+# Версия 2 - обновление от 10.04.2026
 # Главный файл программы
 
 from office_history import OfficeRecord, OfficeHistory, OfficeIterator
