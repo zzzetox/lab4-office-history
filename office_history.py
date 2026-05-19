@@ -184,3 +184,4 @@ class OfficeIterator:
     def __iter__(self):
         return self
 # Новая функция для офисных работников
+# ИЗМЕНЕНИЕ ИЗ ОРИГИНАЛА - версия 1
